@@ -51,7 +51,7 @@ export default function Navbar() {
             </li>
             <li>
               <a
-                href="/images/Rob-Perez-RESUME.pdf"
+                href="/images/MockUpIDD.pdf"
                 className="nav-text"
                 target="blank"
               >

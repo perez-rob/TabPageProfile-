@@ -2,13 +2,11 @@
 
 ## Description
 
-This is a revamp of my current portfolio using React, MaterializeCSS and Nodemailer
-
+A simple, easy to make and read, single page ( Single Component!) app that uses exported resume template from Adobe InDesign to populate MaterialUI 'Tabs' component
 ![Demo gif](./demo.gif)
 
-The code and all relevant files can be found at [https://github.com/perez-rob/react-portfolio-page](https://github.com/perez-rob/react-portfolio-page).
+The code and all relevant files can be found at [https://github.com/perez-rob/TabPageProfile-](https://github.com/perez-rob/TabPageProfile-).
 
-The deployed application can be accessed here: [gentle-inlet-22392.herokuapp.com/](https://gentle-inlet-22392.herokuapp.com/)
 
 ## Table of Contents
 
@@ -20,15 +18,9 @@ The deployed application can be accessed here: [gentle-inlet-22392.herokuapp.com
 
 ## Features
 
-- Nodemailer on backend so the contact form sends its content to my Gmail inbox
-- Modularized React components
-- Materialize CSS styling
-- Animated gifs of project samples
+
 
 ## Credits
-
-Solo project for GATech Coding Bootcamp. Starter good for the UI was provided.
-by Rob Perez
 
 - [Portfolio Page](https://www.robperez.net)
 - rob@robperez.net
